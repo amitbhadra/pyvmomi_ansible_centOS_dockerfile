@@ -1,0 +1,6 @@
+pyvmomi
+jmespath
+dnspython
+netaddr
+setuptools-rust
+ansible==2.9.10
